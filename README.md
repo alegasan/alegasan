@@ -2,8 +2,6 @@
 
 ###  Aspiring Full-Stack Web Developer | IT Student | Philippines
 
-I'm an Information Technology student at **Green Valley College Foundation Inc.** passionate about building web applications.
-
 ---
 
 ##  Tech Stack
@@ -44,7 +42,6 @@ I'm an Information Technology student at **Green Valley College Foundation Inc.*
 
 ##  Currently
 
--  Studying **Information Technology** at Green Valley College Foundation Inc.
 -  Strengthening my skills in **Laravel** and **Vue.js**
 -  Building personal projects to grow my portfolio
 
